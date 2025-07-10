@@ -6,18 +6,18 @@ Um simples jogo da forca escrito em linguagem C, executado no terminal. O objeti
 ## 🚀 Como Jogar
 1. **Clone ou copie o código** para sua máquina.
 ```bash
-git clone https://github.com/Guiliff/Guessing_Game.git
+git clone https://https://github.com/Guiliff/Hangman_Game
 cd Guessing_Game
 ```
 
 2. **Compile o código** com o GCC no terminal:
 ```bash
-gcc guessing_game.c -o guessing_game.out
-./guessing_game.out
+gcc hangman.c -o hangman.out
+./hangman.out
 ```
 
 <div align="center">
-  <img src="https://github.com/Guiliff/Guessing_Game/blob/main/assets/gccg.gif?raw=true" alt="Compilando o jogo" />
+  <img src="https://github.com/Guiliff/Hangman_Game/blob/main/assets/gcchangman.gif?raw=true" alt="Compilando o jogo" />
 </div>
 
 3. Comece a jogar:
@@ -28,7 +28,7 @@ gcc guessing_game.c -o guessing_game.out
 - Erros são contabilizados com um limite de 6 tentativas.
 
 <div align="center">
-  <img src="https://github.com/Guiliff/Guessing_Game/blob/main/assets/gccg.gif?raw=true" alt="Compilando o jogo" />
+  <img src="https://github.com/Guiliff/Hangman_Game/blob/main/assets/hang.gif?raw=true" alt="Compilando o jogo" />
 </div>
 
 ## 🧠 Lógica do Jogo
